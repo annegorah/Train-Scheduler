@@ -1,0 +1,11 @@
+.jumbotron {
+    background-color:lightblue;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/station.jpg");  
+}
